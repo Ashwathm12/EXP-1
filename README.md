@@ -65,15 +65,19 @@ b.  KCL:
 
 a.   KVL:
 
-![1](https://github.com/user-attachments/assets/62001b0e-6624-46a2-a743-889691b7e49a)
+![1](https://github.com/user-attachments/assets/14c85434-3496-4a2e-8484-076a1fadd5aa)
 
-![2](https://github.com/user-attachments/assets/2a021c29-8541-445a-896f-42db0c47673f)
+
+![2](https://github.com/user-attachments/assets/883fdd7b-aca1-4911-89aa-f1abe4957046)
+
 
 b.  KCL:
+![3](https://github.com/user-attachments/assets/9ae31dfc-662a-4b78-b7dd-1f1baa6e32ac)
+![4](https://github.com/user-attachments/assets/6482acbb-ab7f-4fbe-ab64-cadecc1a18df)
+![5](https://github.com/user-attachments/assets/d762bb05-07a1-45a7-9cea-c0af43827ac5)
 
-![4](https://github.com/user-attachments/assets/5e8ca13b-e657-403f-aafe-78970101ed0f)
 
-![3](https://github.com/user-attachments/assets/bbded126-6737-4f68-9e62-bf68d4daaf16)
+
 
 ## RESULT:
 
